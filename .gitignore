@@ -4,3 +4,4 @@ data/MNIST
 model/
 data/ViT/images/
 data/ViT/annotations.json
+data/ViT/ViT.zip
